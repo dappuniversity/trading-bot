@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.0.35",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
     "ejs": "^2.5.6",
