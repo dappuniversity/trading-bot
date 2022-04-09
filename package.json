@@ -19,7 +19,7 @@
     "express": "^4.15.2",
     "infura-web3-provider": "0.0.3",
     "lodash": "^4.17.15",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.28",
     "numeral": "^2.0.6"
   },
