@@ -16,7 +16,7 @@
     "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
     "ejs": "^2.5.6",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "infura-web3-provider": "0.0.3",
     "lodash": "^4.17.15",
     "moment": "^2.25.3",
